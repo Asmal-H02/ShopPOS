@@ -899,9 +899,6 @@ The local POS should remain usable even when the backup service is unavailable.
 * [x] Sidebar navigation
 * [x] Top navigation
 * [x] Login interface
-* [ ] Further POS UI improvements
-* [ ] Further Cashier Dashboard improvements
-* [ ] Accessibility/usability improvements
 
 ### Phase 5 — Low-Cost Hardware Integration
 
